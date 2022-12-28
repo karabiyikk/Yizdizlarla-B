@@ -1,5 +1,3 @@
-package Diziler;
-
 public class YizdizlarlaB {
     public static void main(String[] args) {
         String[][] letter = new String[7][4];
